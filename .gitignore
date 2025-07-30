@@ -1,0 +1,27 @@
+# Carpetas privadas
+# Ignorar contenido de assets, pero permitir .gitkeep
+assets/*
+!assets/.gitkeep
+
+data/*
+!data/.gitkeep
+
+output/*
+!output/.gitkeep
+# Compilación PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos ejecutables
+*.exe
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Archivos de entorno virtual
+venv/
+.env
