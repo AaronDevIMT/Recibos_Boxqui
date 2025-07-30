@@ -115,6 +115,15 @@ pip install -r requirements.txt
 ```bash
 python gui.py
 ```
+## 🔮 Próximas mejoras
+
+Optimización del tiempo de carga inicial en formato ejecutable.
+
+Mejora visual de la interfaz con un diseño más moderno.
+
+Integración opcional de base de datos para gestión de clientes.
+
+Creación de versión web usando un framework como Streamlit o Flask.
 
 ---
 
